@@ -143,9 +143,9 @@ section:last-child {
 
 .keySkills {
 	list-style-type: none;
-	-moz-column-count:3;
-	-webkit-column-count:3;
-	column-count:3;
+	-moz-column-count:2;
+	-webkit-column-count:2;
+	column-count:2;
 	margin-bottom: 20px;
 	font-size: 1em;
 	color: #444;
@@ -161,8 +161,6 @@ section:last-child {
 	}
 	
 	.keySkills {
-	list-style-type: disc;
-	list-style-position: inside;
 	-moz-column-count:2;
 	-webkit-column-count:2;
 	column-count:2;
@@ -197,8 +195,6 @@ section:last-child {
 	}
 	
 	.keySkills {
-		list-style-type: disc;
-		list-style-position: inside;
 		-moz-column-count:2;
 		-webkit-column-count:2;
 		column-count:2;
@@ -220,9 +216,7 @@ section:last-child {
 
 	
 	.keySkills {
-<<<<<<< HEAD
-	list-style-type: disc;
-	list-style-position: inside;
+	list-style-type: none;
 	-moz-column-count:2;
 	-webkit-column-count:2;
 	column-count:2;
@@ -230,12 +224,6 @@ section:last-child {
 	font-size: 1em;
 	color: #444;
 }
-=======
-	-moz-column-count:1;
-	-webkit-column-count:1;
-	column-count:1;
-	}
->>>>>>> parent of 58b7650... Changed 3 to 2 Columns, added Bullet Disc
 	
 	#name h1 {
 		line-height: .8em;
